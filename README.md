@@ -1,7 +1,5 @@
-Hi there! I'm a frontend developer specializing in building intuitive and responsive user interfaces using React and Next JS.
-I recently started to study about web3 and smart contract integration in web applications. 
-
-I like to think of myself as a creative problem-solver, with a focus on UX/UI & SEO.
+Hi there! I'm a frontend developer specializing in building intuitive and responsive user interfaces using React and Next JS, I like to think of myself as a creative problem-solver.
+My intention is to develop and improve the user experience and de user interfaces of the Web3.
 
 <br />
   <a href="https://linkedin.com/in/luciano-scaminaci/">
