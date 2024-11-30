@@ -3,7 +3,6 @@ A frontend developer passionate about crafting intuitive and responsive dApps th
 
 Core contributor at [**1Hive DAO**](https://1hive.org) and actively developing [**Gardens**](https://gardens.fund)
 
-
 ### 🏆 Achievements
 - [**Veritrust**](https://taikai.network/ethargentina/hackathons/buildathon-2023/projects/clkwmn1ka00nqt401wio2a8pe/idea) - 1st place public goods track | Ethereum Argentina 2023
 - **Finguru** - 1st place general track | Algorand in LABitconf 2023
@@ -11,6 +10,7 @@ Core contributor at [**1Hive DAO**](https://1hive.org) and actively developing [
 - [**Enigma Vote**](https://taikai.network/ethargentina/hackathons/level-up-argentina-2024/projects/clzelhbkt07j0wx01vjcgcsi9/idea) - 3rd place SK track | Ethereum Argentina 2024
 - [**Meme Arena**](https://dorahacks.io/buidl/15201/) - 2nd place Solana track | Aleph hackathon 2024
 - [**PopUp Pass**](https://dorahacks.io/buidl/18507) - 3rd place World ID | Edge City Lanna 2024
+- [**Aruswap**](https://ethglobal.com/showcase/aruswap-ebpfr) - 2nd place Cow Swap track | ETHGlobal 2024
 
 ### 🎯 Focus & Expertise
 - 🎨 Crafting intuitive dApp interfaces with optimized performance
