@@ -6,7 +6,7 @@ Core contributor at [**1Hive DAO**](https://1hive.org) and actively developing [
 - [**Veritrust**](https://taikai.network/ethargentina/hackathons/buildathon-2023/projects/clkwmn1ka00nqt401wio2a8pe/idea) - 1st place public goods track | Ethereum Argentina 2023
 - **Finguru** - 1st place general track | Algorand in LABitconf 2023
 - [**Gardens**](https://app.buidlbox.io/projects/convictio?path=projects%2Fconvictio) - 1st place Noble funding distribution | Allo on Arbitrum 2024
-- [**Enigma Vote**](https://taikai.network/ethargentina/hackathons/level-up-argentina-2024/projects/clzelhbkt07j0wx01vjcgcsi9/idea) - 3rd place SK track | Ethereum Argentina 2024
+- [**Enigma Vote**](https://taikai.network/ethargentina/hackathons/level-up-argentina-2024/projects/clzelhbkt07j0wx01vjcgcsi9/idea) - 3rd place ZK track | Ethereum Argentina 2024
 - [**Meme Arena**](https://dorahacks.io/buidl/15201/) - 2nd place Solana track | Aleph hackathon 2024
 - [**PopUp Pass**](https://dorahacks.io/buidl/18507) - 3rd place World ID | Edge City Lanna 2024
 - [**Aruswap**](https://ethglobal.com/showcase/aruswap-ebpfr) - 2nd place Cow Swap track | ETHGlobal 2024
@@ -19,7 +19,7 @@ Core contributor at [**1Hive DAO**](https://1hive.org) and actively developing [
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=LucianoSc&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=Github%20Stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSC&layout=donut&theme=dark&hide_border=true&count_private=true&langs_count=6&donut_radius=2)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSC&layout=donut&theme=dark&hide_border=true&count_private=true&langs_count=6&donut_radius=2&hide=solidity)
 
 ### 💻 Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
