@@ -30,7 +30,7 @@ Core contributor at [**1Hive DAO**](https://1hive.org) and actively developing [
   <a href="https://linkedin.com/in/luciano-scaminaci/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://lucianodev-portfolio.netlify.app/" target="_blank">
+  <a href="https://lucianodev.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
