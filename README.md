@@ -1,6 +1,8 @@
-# 🚀 Hi I'm Lucho
-A frontend developer passionate about crafting intuitive and responsive dApps that bridge the gap between Web3 technology and everyday users. With expertise in React and Next.js, I transform complex blockchain interactions into seamless user experiences. 
-Core contributor at [**1Hive DAO**](https://1hive.org) and actively developing [**Gardens**](https://gardens.fund)
+# 🚀 Hi I'm Lucho / frontend dev
+
+Shorting the gap between Web3 technology and everyday users.
+Currently Working at [**Quantinium**](https://quantinium.cc/)
+Core contributor at [**1Hive DAO**](https://1hive.org) and [**Gardens**](https://gardens.fund)
 
 ### 🏆 Achievements
 - [**Veritrust**](https://taikai.network/ethargentina/hackathons/buildathon-2023/projects/clkwmn1ka00nqt401wio2a8pe/idea) - 1st place public goods track | Ethereum Argentina 2023
