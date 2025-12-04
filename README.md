@@ -2,7 +2,6 @@
 
 ### Web3 Frontend Developer | Bridging Innovation & User Experience
 
-*Building the decentralized future, one pixel at a time*
 
 ## 🎯 What I Do
 
