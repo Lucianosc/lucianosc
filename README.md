@@ -1,50 +1,105 @@
-# 🚀 Hi I'm Lucho - Frontend dev
+<div align="center">
 
-"Shorting the gap between Web3 technology and everyday users"
+# 👋 Hey, I'm Lucho
 
-##### 💼 Currently Working at [**Quantinium**](https://quantinium.cc/)
+### Web3 Frontend Developer | Bridging Innovation & User Experience
 
-🤝 Core contributor at [**1Hive DAO**](https://1hive.org) and [**Gardens**](https://gardens.fund)
+*Building the decentralized future, one pixel at a time*
 
-### 🏆 Achievements
+</div>
 
-- [**Veritrust**](https://taikai.network/ethargentina/hackathons/buildathon-2023/projects/clkwmn1ka00nqt401wio2a8pe/idea) - 1st place public goods track | Ethereum Argentina 2023
-- **Finguru** - 1st place general track | Algorand in LABitconf 2023
-- [**Gardens**](https://app.buidlbox.io/projects/convictio?path=projects%2Fconvictio) - 1st place Noble funding distribution | Allo on Arbitrum 2024
-- [**Enigma Vote**](https://taikai.network/ethargentina/hackathons/level-up-argentina-2024/projects/clzelhbkt07j0wx01vjcgcsi9/idea) - 3rd place Zero Knowledge track | Ethereum Argentina 2024
-- [**Meme Arena**](https://dorahacks.io/buidl/15201/) - 2nd place Solana track | Aleph hackathon 2024
-- [**PopUp Pass**](https://dorahacks.io/buidl/18507) - 3rd place World ID | Edge City Lanna 2024
-- [**Aruswap**](https://ethglobal.com/showcase/aruswap-ebpfr) - 2nd place Cow Swap hooks | ETHGlobal 2024
+---
 
-### 🎯 Focus & Expertise
+## 🎯 What I Do
 
-- 🎨 Crafting intuitive dApp interfaces with optimized performance
-- 🔗 Bridging Web2 & Web3 through accessible user experiences
-- 💡 Innovating Web3 UX and contributing to the decentralized ecosystem
-- 🚀 Building scalable solutions for the future of web
+I craft **intuitive, high-performance dApps** that make Web3 accessible to everyone. My mission? Making blockchain technology feel as natural as Web2, without compromising on decentralization.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LucianoSc&show_icons=true&theme=dark&hide_border=true&count_private=true&custom_title=Github%20Stats)
+```javascript
+const lucho = {
+  role: "Senior Frontend Developer",
+  focus: ["Web3 UX", "DeFi Interfaces", "DAO Tooling"],
+  philosophy: "Great UX shouldn't require users to understand blockchain",
+  currentlyBuilding: "The future of decentralized applications"
+};
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSC&layout=donut&theme=dark&hide_border=true&count_private=true&langs_count=6&donut_radius=2&hide=solidity)
+## 💼 Current Work
 
-### 💻 Tech Stack
+**🔹 [Quantinium](https://quantinium.cc/)** · Frontend Developer  
+**🔹 [1Hive DAO](https://1hive.org)** · Core Contributor  
+**🔹 [Gardens](https://gardens.fund)** · Core Contributor
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=E10098)
+---
 
-### 🤝 Let's Connect
+## 🏆 Hackathon Achievements
 
-<div align="left">
-  <a href="https://linkedin.com/in/luciano-scaminaci/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://lucianodev.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
+| Project | Award | Event |
+|---------|-------|-------|
+| [**Veritrust**](https://taikai.network/ethargentina/hackathons/buildathon-2023/projects/clkwmn1ka00nqt401wio2a8pe/idea) | 🥇 1st Place - Public Goods | ETH Argentina 2023 |
+| **Finguru** | 🥇 1st Place - General Track | Algorand @ LABitconf 2023 |
+| [**Gardens**](https://app.buidlbox.io/projects/convictio?path=projects%2Fconvictio) | 🥇 1st Place - Noble Funding | Allo on Arbitrum 2024 |
+| [**Enigma Vote**](https://taikai.network/ethargentina/hackathons/level-up-argentina-2024/projects/clzelhbkt07j0wx01vjcgcsi9/idea) | 🥉 3rd Place - ZK Track | ETH Argentina 2024 |
+| [**Meme Arena**](https://dorahacks.io/buidl/15201/) | 🥈 2nd Place - Solana Track | Aleph Hackathon 2024 |
+| [**PopUp Pass**](https://dorahacks.io/buidl/18507) | 🥉 3rd Place - World ID | Edge City Lanna 2024 |
+| [**Aruswap**](https://ethglobal.com/showcase/aruswap-ebpfr) | 🥈 2nd Place - CoW Swap Hooks | ETHGlobal 2024 |
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend Core**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Web3 Tools**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
+![Viem](https://img.shields.io/badge/Viem-646CFF?style=for-the-badge&logo=v&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Design & Animation**
+
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucianoSC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=solidity)
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luciano-scaminaci/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucianodev.xyz/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucianosc_)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciano@lucianodev.xyz)
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucianosc&style=flat-square&color=blue" alt="Profile views"/>
+
+### 💭 *"The best interface is the one you don't notice"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=LucianoSC&style=for-the-badge&color=blueviolet)
+
+**⭐ If you like my work, consider starring my repos!**
+
 </div>
