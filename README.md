@@ -1,12 +1,8 @@
-<div align="center">
-
 # 👋 Hey, I'm Lucho
 
 ### Web3 Frontend Developer | Bridging Innovation & User Experience
 
 *Building the decentralized future, one pixel at a time*
-
-</div>
 
 ## 🎯 What I Do
 
