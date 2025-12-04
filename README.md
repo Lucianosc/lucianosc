@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🎯 What I Do
 
 I craft **intuitive, high-performance dApps** that make Web3 accessible to everyone. My mission? Making blockchain technology feel as natural as Web2, without compromising on decentralization.
@@ -17,7 +15,7 @@ I craft **intuitive, high-performance dApps** that make Web3 accessible to every
 ```javascript
 const lucho = {
   role: "Senior Frontend Developer",
-  focus: ["Web3 UX", "DeFi Interfaces", "DAO Tooling"],
+  focus: ["Web3 UX", "Intuitive Interfaces", "DAO Tooling"],
   philosophy: "Great UX shouldn't require users to understand blockchain",
   currentlyBuilding: "The future of decentralized applications"
 };
@@ -26,10 +24,7 @@ const lucho = {
 ## 💼 Current Work
 
 **🔹 [Quantinium](https://quantinium.cc/)** · Frontend Developer  
-**🔹 [1Hive DAO](https://1hive.org)** · Core Contributor  
 **🔹 [Gardens](https://gardens.fund)** · Core Contributor
-
----
 
 ## 🏆 Hackathon Achievements
 
@@ -42,8 +37,6 @@ const lucho = {
 | [**Meme Arena**](https://dorahacks.io/buidl/15201/) | 🥈 2nd Place - Solana Track | Aleph Hackathon 2024 |
 | [**PopUp Pass**](https://dorahacks.io/buidl/18507) | 🥉 3rd Place - World ID | Edge City Lanna 2024 |
 | [**Aruswap**](https://ethglobal.com/showcase/aruswap-ebpfr) | 🥈 2nd Place - CoW Swap Hooks | ETHGlobal 2024 |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -67,8 +60,6 @@ const lucho = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -79,16 +70,13 @@ const lucho = {
 
 </div>
 
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luciano-scaminaci/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucianodev.xyz/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lucianosc_)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciano@lucianodev.xyz)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LuchoSca)
 
 </div>
 
@@ -99,7 +87,5 @@ const lucho = {
 ### 💭 *"The best interface is the one you don't notice"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LucianoSC&style=for-the-badge&color=blueviolet)
-
-**⭐ If you like my work, consider starring my repos!**
 
 </div>
